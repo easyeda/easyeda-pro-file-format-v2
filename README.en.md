@@ -12,6 +12,8 @@ This project compiles the complete specification of the EasyEDA Pro V2 project f
 - PCB file format
 - Extensions such as 3D shell, design rules, and panelization
 
+>"Note": Since version 3, the EasyEDA Pro dedicated version has stopped using the file format of version 2, but it still supports importing and exporting files in version 2 format (with some differences in details). Developers are recommended to use version 3 format for development. For specific details, please refer to: [easyeda/easyeda-pro-file-format](https://github.com/easyeda/easyeda-pro-file-format)
+
 ## Documentation Structure
 
 - [中文文档](docs/zh/README.md)
