@@ -13,6 +13,8 @@
 - 3D外壳、设计规则、拼版等扩展格式
 
 > "提示"：嘉立创EDA专业版从 V3 开始已经不再使用 V2 的文件格式，当仍支持 V2 格式的导入和导出（会有细节差异），建议开发者使用 V3 格式进行开发，具体请查阅：[easyeda/easyeda-pro-file-format](https://github.com/easyeda/easyeda-pro-file-format)
+> 提示：最新版本的嘉立创EDA专业版文档格式说明请参考：https://github.com/easyeda/easyeda-pro-format-skill
+
 
 ## 文档结构
 
