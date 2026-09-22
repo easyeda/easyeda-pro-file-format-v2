@@ -1,7 +1,7 @@
 # Project Packaging Structure
 
 ## Overview
-
+The "epro" format is the project archive format for the versions V1 and V2 of EasyEDA Pro. Both the online editor and the offline client (which by default uses SQLite files with the eprj suffix for storage) support exporting in a zip archive format.
 The project package uses the **zip compression format** for the following advantages:
 
 1. Wide compatibility.

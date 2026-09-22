@@ -12,9 +12,10 @@
 - PCB文件格式
 - 3D外壳、设计规则、拼版等扩展格式
 
-> "提示"：嘉立创EDA专业版从 V3 开始已经不再使用 V2 的文件格式，当仍支持 V2 格式的导入和导出（会有细节差异），建议开发者使用 V3 格式进行开发，具体请查阅：[easyeda/easyeda-pro-file-format](https://github.com/easyeda/easyeda-pro-file-format)
-> 提示：最新版本的嘉立创EDA专业版文档格式说明请参考：https://github.com/easyeda/easyeda-pro-format-skill
+> "提示"：嘉立创EDA专业版从 V3 开始已经不再使用 V2 的文件格式，当仍支持 V2 格式的导入和导出（会有细节差异），建议开发者使用最新版本V3格式开发。   
+> "提示"：最新版本的嘉立创EDA专业版文档格式说明请参考：https://github.com/easyeda/easyeda-pro-format-skill
 
+“epro”格式是嘉立创EDA专业版V1与V2版本的工程归档格式，在线版编辑器和离线客户端（离线客户端默认使用eprj后缀的SQLite文件存储）均支持导出，是一个zip压缩包。
 
 ## 文档结构
 

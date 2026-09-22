@@ -12,9 +12,11 @@ This project compiles the complete specification of the EasyEDA Pro V2 project f
 - PCB file format
 - Extensions such as 3D shell, design rules, and panelization
 
->"Note": Since version 3, the EasyEDA Pro version has stopped using the file format of version 2, but it still supports importing and exporting files in version 2 format (with some differences in details). Developers are recommended to use version 3 format for development. For specific details, please refer to: [easyeda/easyeda-pro-file-format](https://github.com/easyeda/easyeda-pro-file-format)
-> Notice: The latest file format of EasyEDA Pro please reference at https://github.com/easyeda/easyeda-pro-format-skill
+>"Note": Since version 3, the EasyEDA Pro version has stopped using the file format of version 2, but it still supports importing and exporting files in version 2 format (with some differences in details). Developers are recommended to use version 3 format for development.  
+> "Note": The latest file format of EasyEDA Pro please reference at https://github.com/easyeda/easyeda-pro-format-skill
 
+The "epro" format is the project archive format for the versions V1 and V2 of EasyEDA Pro. Both the online editor and the offline client (which by default uses SQLite files with the eprj suffix for storage) support exporting in a zip archive format.
+The project package uses the **zip compression format** for the following advantages:
 
 ## Documentation Structure
 
